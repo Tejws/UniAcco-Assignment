@@ -57,7 +57,7 @@ package.json      # Project metadata and dependencies
 Here are some screenshots of the project:
 
 ![Homepage Screenshot](https://github.com/user-attachments/assets/b2111e52-1345-434b-a53a-fe0ffd73a84a)
-![Dashboard Screenshot](assets/dashboard.png)
+![Searching for a Movie Screenshot](https://github.com/user-attachments/assets/48ae85bb-b5a1-459e-b94d-a37905c73f9e)
 
    <h2>Contributing</h2>
     <p>If you want to contribute to the project, please follow the contribution guidelines in the <code>CONTRIBUTING.md</code> file.</p>
