@@ -55,9 +55,12 @@ package.json      # Project metadata and dependencies
     ## Screenshots
 
 Here are some screenshots of the project:
-
+    <h1>Homepage Screenshot</h1>
 ![Homepage Screenshot](https://github.com/user-attachments/assets/b2111e52-1345-434b-a53a-fe0ffd73a84a)
+    <h1>Searching for a Movie Screenshot</h1>
 ![Searching for a Movie Screenshot](https://github.com/user-attachments/assets/48ae85bb-b5a1-459e-b94d-a37905c73f9e)
+    <h1>Card detail for a Movie Screenshot</h1>
+![Card detail for a Movie Screenshot](https://github.com/user-attachments/assets/59239fce-03e1-43a2-801c-87b885c04c6a)
 
    <h2>Contributing</h2>
     <p>If you want to contribute to the project, please follow the contribution guidelines in the <code>CONTRIBUTING.md</code> file.</p>
