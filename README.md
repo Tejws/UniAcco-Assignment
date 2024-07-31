@@ -32,19 +32,7 @@
         <li><code>npm run lint</code> - Runs the linter to check for code quality issues.</li>
     </ul>
 
-  <h2>Project Structure</h2>
-    <p>Here’s a brief overview of the project structure:</p>
-    <pre>
-src/
-|-- components/   # Reusable React components
-|-- pages/        # Different pages of the app
-|-- App.js        # Main component that wraps everything
-|-- index.js      # Entry point for the React app
-public/
-|-- index.html    # Main HTML file
-|-- favicon.ico   # Favicon for the app
-package.json      # Project metadata and dependencies
-    </pre>
+
 
   <h2>Additional Resources</h2>
     <p>For more information on React, check out the official documentation:</p>
