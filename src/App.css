@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  background-color: rgb(5, 8, 7);
+}
+
+
+.app h1{
+  font-size: 50px;
+}
+/* .search{
+  position: relative;
+  right: 50px;
+} */
+.app {
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center the content */
+  min-height: 100vh; /* Ensure it takes at least full height */
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #ff69b4; /* Pink background */
+  color: black; /* Black text */
+  width: 100%;
+  max-width: 1800px; /* Max width to center header content */
+  margin: 0 auto; /* Center header */
+  position: relative; /* Relative position for alignment */
+}
+
+header .logo {
+  width: 50px; /* Adjust the size as needed */
+  height: auto;
+  margin-bottom: 10px;
+}
+
+header h1 {
+  margin: 0 0 10px 0; /* Add margin below title */
+}
+
+header input.search {
+  padding: 5px;
+  font-size: 16px;
+  border: 1px solid #ff69b4; /* Pink border */
+  border-radius: 4px;
+  width: 100%;
+  max-width: 600px; /* Max width for the search bar */
+  box-sizing: border-box; /* Include padding in width calculation */
+}
+
+.movie-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.movie-card {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 200px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.movie-card:hover {
+  transform: scale(1.05);
+}
+
+.movie-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.movie-card h2 {
+  font-size: 18px;
+  margin: 10px 0 0;
+}
