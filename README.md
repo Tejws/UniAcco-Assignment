@@ -34,13 +34,8 @@
 
 
 
-  <h2>Additional Resources</h2>
-    <p>For more information on React, check out the official documentation:</p>
-    <ul>
-        <li><a href="https://reactjs.org/docs/getting-started.html" target="_blank">React Documentation</a></li>
-        <li><a href="https://create-react-app.dev/docs/getting-started/" target="_blank">Create React App Documentation</a></li>
-    </ul>
-    ## Screenshots
+
+## Screenshots
 
 Here are some screenshots of the project:
     <h1>Homepage Screenshot</h1>
