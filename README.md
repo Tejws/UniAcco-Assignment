@@ -53,6 +53,7 @@ package.json      # Project metadata and dependencies
         <li><a href="https://create-react-app.dev/docs/getting-started/" target="_blank">Create React App Documentation</a></li>
     </ul>
     <h1>Screen shots</h1>
+    ![UniAcco_1](https://github.com/user-attachments/assets/eef45780-b49a-4adf-a419-95d4eb87e218)
    <h2>Contributing</h2>
     <p>If you want to contribute to the project, please follow the contribution guidelines in the <code>CONTRIBUTING.md</code> file.</p>
 
