@@ -52,7 +52,7 @@ package.json      # Project metadata and dependencies
         <li><a href="https://reactjs.org/docs/getting-started.html" target="_blank">React Documentation</a></li>
         <li><a href="https://create-react-app.dev/docs/getting-started/" target="_blank">Create React App Documentation</a></li>
     </ul>
-
+    <h1>Screen shots</h1>
    <h2>Contributing</h2>
     <p>If you want to contribute to the project, please follow the contribution guidelines in the <code>CONTRIBUTING.md</code> file.</p>
 
