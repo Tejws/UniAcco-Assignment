@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-</head>
+</head> 
 <body>
     <h1>React Application</h1>
     <p>Welcome to your React application! This document will help you get started with running and developing your React app.</p>
