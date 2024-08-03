@@ -15,7 +15,7 @@
         <li><strong>Clone the Repository</strong><br>
             Use <code>git clone</code> to clone the repository to your local machine.
         </li>
-        <li><strong>Install Dependencies</strong><br>
+        <li><strong>Install Dependencies</strong><br> 
             Navigate to the project directory and run <code>npm install</code> to install all the required dependencies.
         </li>
         <li><strong>Run the Development Server</strong><br>
