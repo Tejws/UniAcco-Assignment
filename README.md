@@ -10,7 +10,7 @@
     <p>Welcome to your React application! This document will help you get started with running and developing your React app.</p>
 
   <h2>Getting Started</h2>
-    <p>To get started with your React application, follow these steps:</p>
+    <p>To get started with your React application, follow these steps:</p> 
     <ol>
         <li><strong>Clone the Repository</strong><br>
             Use <code>git clone</code> to clone the repository to your local machine.
